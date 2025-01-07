@@ -1,0 +1,15 @@
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\obj\Debug\net8.0\Variabili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\obj\Debug\net8.0\Variabili.AssemblyInfoInputs.cache
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\obj\Debug\net8.0\Variabili.AssemblyInfo.cs
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\obj\Debug\net8.0\Variabili.csproj.CoreCompileInputs.cache
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\obj\Debug\net8.0\Variabili.sourcelink.json
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\bin\Debug\net8.0\Variabili.exe
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\bin\Debug\net8.0\Variabili.deps.json
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\bin\Debug\net8.0\Variabili.runtimeconfig.json
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\bin\Debug\net8.0\Variabili.dll
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\bin\Debug\net8.0\Variabili.pdb
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\obj\Debug\net8.0\Variabili.dll
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\obj\Debug\net8.0\refint\Variabili.dll
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\obj\Debug\net8.0\Variabili.pdb
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\obj\Debug\net8.0\Variabili.genruntimeconfig.cache
+C:\Users\loren\OneDrive\Documenti\GitHub\EserciziGP1\Variabili\Variabili\Variabili\obj\Debug\net8.0\ref\Variabili.dll
