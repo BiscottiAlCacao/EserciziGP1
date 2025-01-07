@@ -1,0 +1,14 @@
+C:\Users\loren\source\repos\Funzioni\Funzioni\obj\Debug\net8.0\Funzioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\Funzioni\Funzioni\obj\Debug\net8.0\Funzioni.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\Funzioni\Funzioni\obj\Debug\net8.0\Funzioni.AssemblyInfo.cs
+C:\Users\loren\source\repos\Funzioni\Funzioni\obj\Debug\net8.0\Funzioni.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\Funzioni\Funzioni\bin\Debug\net8.0\Funzioni.exe
+C:\Users\loren\source\repos\Funzioni\Funzioni\bin\Debug\net8.0\Funzioni.deps.json
+C:\Users\loren\source\repos\Funzioni\Funzioni\bin\Debug\net8.0\Funzioni.runtimeconfig.json
+C:\Users\loren\source\repos\Funzioni\Funzioni\bin\Debug\net8.0\Funzioni.dll
+C:\Users\loren\source\repos\Funzioni\Funzioni\bin\Debug\net8.0\Funzioni.pdb
+C:\Users\loren\source\repos\Funzioni\Funzioni\obj\Debug\net8.0\Funzioni.dll
+C:\Users\loren\source\repos\Funzioni\Funzioni\obj\Debug\net8.0\refint\Funzioni.dll
+C:\Users\loren\source\repos\Funzioni\Funzioni\obj\Debug\net8.0\Funzioni.pdb
+C:\Users\loren\source\repos\Funzioni\Funzioni\obj\Debug\net8.0\Funzioni.genruntimeconfig.cache
+C:\Users\loren\source\repos\Funzioni\Funzioni\obj\Debug\net8.0\ref\Funzioni.dll
