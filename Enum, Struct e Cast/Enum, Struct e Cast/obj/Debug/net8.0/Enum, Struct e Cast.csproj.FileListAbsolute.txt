@@ -1,0 +1,14 @@
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\bin\Debug\net8.0\Enum, Struct e Cast.exe
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\bin\Debug\net8.0\Enum, Struct e Cast.deps.json
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\bin\Debug\net8.0\Enum, Struct e Cast.runtimeconfig.json
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\bin\Debug\net8.0\Enum, Struct e Cast.dll
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\bin\Debug\net8.0\Enum, Struct e Cast.pdb
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\obj\Debug\net8.0\Enum, Struct e Cast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\obj\Debug\net8.0\Enum, Struct e Cast.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\obj\Debug\net8.0\Enum, Struct e Cast.AssemblyInfo.cs
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\obj\Debug\net8.0\Enum, Struct e Cast.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\obj\Debug\net8.0\Enum, Struct e Cast.dll
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\obj\Debug\net8.0\refint\Enum, Struct e Cast.dll
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\obj\Debug\net8.0\Enum, Struct e Cast.pdb
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\obj\Debug\net8.0\Enum, Struct e Cast.genruntimeconfig.cache
+C:\Users\loren\source\repos\Enum, Struct e Cast\Enum, Struct e Cast\obj\Debug\net8.0\ref\Enum, Struct e Cast.dll
