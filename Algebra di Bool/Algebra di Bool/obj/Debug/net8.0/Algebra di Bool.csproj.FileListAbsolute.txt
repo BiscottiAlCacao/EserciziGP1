@@ -1,0 +1,14 @@
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\bin\Debug\net8.0\Algebra di Bool.exe
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\bin\Debug\net8.0\Algebra di Bool.deps.json
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\bin\Debug\net8.0\Algebra di Bool.runtimeconfig.json
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\bin\Debug\net8.0\Algebra di Bool.dll
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\bin\Debug\net8.0\Algebra di Bool.pdb
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\obj\Debug\net8.0\Algebra di Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\obj\Debug\net8.0\Algebra di Bool.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\obj\Debug\net8.0\Algebra di Bool.AssemblyInfo.cs
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\obj\Debug\net8.0\Algebra di Bool.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\obj\Debug\net8.0\Algebra di Bool.dll
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\obj\Debug\net8.0\refint\Algebra di Bool.dll
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\obj\Debug\net8.0\Algebra di Bool.pdb
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\obj\Debug\net8.0\Algebra di Bool.genruntimeconfig.cache
+C:\Users\loren\source\repos\Algebra di Bool\Algebra di Bool\obj\Debug\net8.0\ref\Algebra di Bool.dll
