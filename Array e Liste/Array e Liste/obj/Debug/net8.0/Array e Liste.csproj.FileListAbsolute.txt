@@ -1,0 +1,14 @@
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\bin\Debug\net8.0\Array e Liste.exe
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\bin\Debug\net8.0\Array e Liste.deps.json
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\bin\Debug\net8.0\Array e Liste.runtimeconfig.json
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\bin\Debug\net8.0\Array e Liste.dll
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\bin\Debug\net8.0\Array e Liste.pdb
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\obj\Debug\net8.0\Array e Liste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\obj\Debug\net8.0\Array e Liste.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\obj\Debug\net8.0\Array e Liste.AssemblyInfo.cs
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\obj\Debug\net8.0\Array e Liste.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\obj\Debug\net8.0\Array e Liste.dll
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\obj\Debug\net8.0\refint\Array e Liste.dll
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\obj\Debug\net8.0\Array e Liste.pdb
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\obj\Debug\net8.0\Array e Liste.genruntimeconfig.cache
+C:\Users\loren\source\repos\Array e Liste\Array e Liste\obj\Debug\net8.0\ref\Array e Liste.dll
